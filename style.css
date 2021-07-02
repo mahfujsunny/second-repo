@@ -1,0 +1,10 @@
+p {
+    background-color: blue;
+    border: 5px solid black;
+}
+
+h1 {
+    color: red;
+    border-left: 10px solid black;
+    border-radius: 20px;
+}
